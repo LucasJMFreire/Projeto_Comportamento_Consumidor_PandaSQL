@@ -144,3 +144,7 @@ Respondendo as perguntas:
 **De acordo com o dados, foi visto que o público feminino adulto, usuárias maiores de 25 anos, compram mais itens em relação às jovens e possuem um gosto na escolha dos itens diferentes!**
 
 **As adultas costumam comprar mais blusas e saias, enquanto que as jovens costumam comprar, principalmente, shorts, tênis e sueters e blusas!**
+
+****
+
+Ainda existem mais perguntas relacionados ao projeto, foram elencadas aqui apenas algumas delas, por isso para entender mais profundamente as questões dos dados trabalhados, sugiro que leia o projeto inteiro!
