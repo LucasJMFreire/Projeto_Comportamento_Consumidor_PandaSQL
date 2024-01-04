@@ -1,1 +1,2 @@
-# Comportamento_Consumidor_PandaSQL
+# Projeto Comportamento do Consumidor: PandaSQL
+
